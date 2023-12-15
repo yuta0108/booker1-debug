@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo, .menu {
+  height: 50px;
+}
+
+.main {
+  height: 500px;
+}
+
+.col-3 {
+  height: 100px;
+}
+
+
+
+
